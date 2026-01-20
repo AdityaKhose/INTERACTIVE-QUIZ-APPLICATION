@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  background: rgb(78, 108, 115);
+}
+
+.container {
+  width: 350px;
+  background: hwb(309 4% 62%);
+  padding: 20px;
+  margin: 80px auto;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+#choices button {
+  width: 100%;
+  margin: 6px 0;
+  padding: 8px;
+  cursor: pointer;
+}
+
+#nextBtn {
+  width: 100%;
+  padding: 8px;
+}
